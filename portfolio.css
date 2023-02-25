@@ -1,0 +1,64 @@
+#name{
+    display: inline-block;
+    font-size: 2em;
+    margin-left: 15px;
+}
+
+nav{
+    float: right;
+}
+
+#about {
+    font-size: 2em;
+    margin-right: 5px;
+}
+
+#home{
+    font-size: 2em;
+    margin-right: 5px;
+}
+
+#portfolio{
+    font-size: 2em;
+    margin-right: 15px;
+}
+
+header {
+    position: fixed;
+    top:0;
+    left: 0;
+    right: 0;
+    background-color: white;
+    box-shadow: 5px 5px 20px black;
+    padding: 5px;
+} 
+
+body{
+    background-color: rgb(193, 199, 199);
+    font-family: Impact;
+}
+
+main {
+    text-align: center;
+    margin-top: 75px;  
+}
+
+section {
+    margin: 30px 200px;
+    padding: 10px;
+    box-shadow: 5px 5px 20px black;
+    background-color: azure;
+}
+
+#workphoto {
+    width: 500px;
+    margin-bottom: 10px;
+}
+
+#emaillogo{
+    margin-left: 5px;
+}
+
+Footer {
+    text-align: center;
+}

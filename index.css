@@ -1,0 +1,70 @@
+#name{
+    display: inline-block;
+    font-size: 2em;
+    margin-left: 15px;
+}
+
+nav{
+    float: right;
+}
+
+#home{
+    font-size: 2em;
+    margin-right: 5px;
+}
+
+#about{
+    font-size: 2em;
+    margin-right: 5px;
+}
+
+#portfolio{
+    font-size: 2em;
+    margin-right: 15px;
+}
+
+#emaillogo{
+    margin-left: 5px;
+}
+
+body{
+    background-color: rgb(193, 199, 199);
+    font-family: Impact;
+}
+
+header {
+    position: fixed;
+    top:0;
+    left: 0;
+    right: 0;
+    background-color: white;
+    box-shadow: 5px 5px 20px black;
+    padding: 5px;
+} 
+
+main {
+    text-align: center;
+    margin-top: 75px;  
+}
+
+section {
+    margin: 30px 200px;
+    padding: 10px;
+    box-shadow: 5px 5px 20px black;
+    background-color: azure;
+}
+
+#bobbyphoto{
+    border-radius: 100%;
+    box-shadow: 5px 5px 20px black;
+    width: 250px;
+}
+
+Footer {
+    text-align: center;
+}
+
+hr{
+    border-width: 1px;
+    border-color: black;
+}
